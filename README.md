@@ -387,39 +387,7 @@ Esto ejecutará un ejemplo de predicción y mostrará el resultado.
 6. **Base de datos**: Guardar histórico de predicciones
 7. **Análisis temporal**: Incluir datos estacionales
 
-## 📞 Soporte
-
-Para reportar problemas o hacer sugerencias:
-- Verificar que todas las dependencias estén instaladas
-- Revisar que el archivo CSV esté en la carpeta `data/`
-- Ejecutar primero `python src/train_model.py`
-- Consultar los logs de error
-
 ## 📄 Licencia
 
 Este proyecto es de código abierto y está disponible para uso educativo y de investigación.
 
-## ✍️ Autor
-
-**Proyecto de Inteligencia Artificial Aplicada**
-- Semestre 6
-- Institución Académica
-- Año: 2024
-
-## 🎓 Notas Académicas
-
-Este proyecto demuestra:
-- ✅ Comprensión de pipelines de Machine Learning
-- ✅ Aplicación de múltiples algoritmos de clasificación
-- ✅ Evaluación y comparación de modelos
-- ✅ Desarrollo de interfaces de usuario
-- ✅ Documentación profesional
-- ✅ Mejores prácticas en desarrollo
-
----
-
-**Estado**: ✅ Proyecto Completado y Funcional
-
-**Última actualización**: 2024
-
-**Mantener actualizado**: Revisar y actualizar dependencias regularmente
